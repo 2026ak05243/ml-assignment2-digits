@@ -19,9 +19,7 @@ Source: Alpaydin, E. and Kaynak, C. (1998). Optical Recognition of Handwritten D
 
 ## c. Github Repository Link
 
-Replace this line with the public repository URL before you submit:
-
-https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME
+https://github.com/2026ak05243/ml-assignment2-digits
 
 ## d. Models used
 
